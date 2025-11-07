@@ -1,0 +1,107 @@
+(Tadrib.ma - Main folder)
+
+├── index.html
+
+├── 404.html
+
+├── robots.txt
+
+├── sitemap.txt
+
+├── sitemap.xml
+
+├── _redirects
+
+└── files/
+
+├── pdfs/
+
+│├── PMP_Guide_AR.pdf
+
+│├── PMP_Guide_FR.pdf
+
+│└── PMP_Guide_EN.pdf
+
+└── assets/
+
+├── css/
+
+│├── 404-mini.css
+
+│├── awesome.css
+
+│├── fonts.css
+
+│├── style-mini.css
+
+│└── style.css
+
+├── js/ 
+
+│├── 404-mini.js 
+
+│├── script-mini.js 
+
+│├── tailwind.js
+
+│└── three.js
+
+├── images/
+
+│├── favicon_io/
+
+││├── android-chrome-192x192.png
+
+││├── android-chrome-512x512.png
+
+││├── apple-touch-icon.png
+
+││├── favicon-16x16.png
+
+││├── favicon-32x32.png
+
+││├── favicon.ico
+
+││└── site.webmanifest
+
+│├── AREP-Logo.webp
+
+│├── Autoroutes-du-Maroc-Logo....webp
+
+│├── Bureau-Veritas-logo.webp
+
+│├── CDG-Development-Logo.webp
+
+│├── Expert-Judiciaire-Cour-dAppe....webp
+
+│├── OCP-Group-Logo.webp
+
+│├── PERFORMIA-Logo.webp
+
+│├── PLANNING+Video.webp
+
+│├── PMP+Video.webp
+
+│├── QSE+Video.webp
+
+│├── SGTM-Logo.webp
+
+│├── SOFT+SKILLS+Video.webp
+
+│├── amine-aalami.webp
+
+│├── fatima-zahrae.webp
+
+│├── samir_bouchrit.webp 
+
+│└── tadrib_logo.webp 
+
+└── videos/ 
+
+│├── Formation-en-management-professionnel-des-projets-BTP--3-.mp4
+
+│├── Formation-en-planification-et-preparation-des-chantiers-de-BTP.mp4
+
+│├── Formation-sur-les-normes-ISO9001,-45001-et-14001-dans-le-BTP.mp4 
+
+│└── Formation-en-Soft-Skills-pour-les-managers.mp4
